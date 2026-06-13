@@ -124,8 +124,7 @@ AI-based multilingual information system utilizing:
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Sahana1255/Sahana1255/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/Sahana1255/Sahana1255/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🤝 Connect With Me
