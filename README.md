@@ -1,138 +1,90 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Sahana V
-
 <div align="center">
 
-### 🔐 Cybersecurity Graduate | SOC Analyst Aspirant
+# Sahana V
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Cybersecurity+Graduate;SOC+Analyst+Aspirant;Threat+Monitoring+%26+Incident+Response;Network+Security+Enthusiast" />
+**Cybersecurity Graduate | SOC Analyst Aspirant**
+
+*Securing networks, analyzing threats, and building resilient defensive strategies.*
+
+[![Email](https://img.shields.io/badge/Email-sahana1255%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahana1255@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahana-v-1255)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://sahana-v-portfolio-s461.vercel.app)
 
 </div>
 
----
+<br>
 
-## 🚀 About Me
+## 🛡️ Professional Summary
 
-🎓 B.Tech Computer Science Graduate
+A passionate **B.Tech Computer Science Graduate** specializing in defensive cybersecurity. Focused on Security Operations Center (SOC) activities including Threat Monitoring, Log Analysis, and Incident Response. Adept at identifying vulnerabilities and implementing robust security measures to protect critical infrastructure.
 
-🔐 Passionate about Security Operations Center (SOC) activities
+- **Mission:** To leverage analytical skills and security tooling to detect, respond to, and mitigate sophisticated cyber threats before they impact operations.
+- **Current Focus:** Advanced SIEM Analysis, Proactive Threat Hunting, and Practical Defensive Projects.
 
-📊 Interested in Threat Monitoring, Log Analysis, Incident Response, and SIEM
+<br>
 
-🌐 Skilled in Network Security, Wireshark, Nmap, Linux, Git & GitHub
+## 🧰 Technical Arsenal
 
-💡 Building practical cybersecurity projects to strengthen defensive security skills
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Security & Forensics** | Wireshark, Nmap, SIEM Fundamentals, Log Analysis |
+| **Core Competencies** | Threat Monitoring, Incident Response, Network Security |
+| **Languages & Scripting** | Python, JavaScript, Bash |
+| **Web & Tools** | React, Linux, Git, GitHub, VS Code |
 
-📍 Chennai, Tamil Nadu, India
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode" />
-
-</p>
-
-### Security Tools
-
-* Wireshark
-* Nmap
-* SIEM Fundamentals
-* Threat Monitoring
-* Incident Response
-* Log Analysis
-
----
+<br>
 
 ## 📂 Featured Projects
 
-### 🔍 Smart URL Checker
+### [Smart URL Checker](https://github.com/Sahana1255/Smart-URL-Checker)
+> **Python | Machine Learning | Cybersecurity**
+> A robust URL validation system engineered to detect phishing attempts and malicious links. 
+> - **Impact:** Performs risk analysis utilizing ASCII encoding techniques and ML-based detection to proactively secure users from deceptive URLs.
 
-Cybersecurity-focused URL validation system that:
+### [AI-Powered Smart Campus Information Kiosk](https://github.com/Sahana1255/Smart-Campus-Kiosk)
+> **LLM | RAG | Backend APIs**
+> An intelligent, multilingual information system designed to assist campus navigation and data retrieval.
+> - **Impact:** Integrates Retrieval-Augmented Generation (RAG) with seamless frontend-backend communication for accurate, context-aware user responses.
 
-✅ Detects phishing URLs
+### [Personal Portfolio](https://sahana-v-portfolio-s461.vercel.app)
+> **React | Responsive Design**
+> A modern, responsive web application showcasing projects, technical skills, and professional milestones.
 
-✅ Performs URL risk analysis
+<br>
 
-✅ Uses ASCII encoding techniques
+## 💼 Experience & Credentials
 
-✅ Includes ML-based phishing detection
+### ⏱️ Professional Experience
 
----
+**Web Development & Digital Marketing Intern**  
+*MoarDigital360 Pvt Ltd*  
+- Engineered responsive web designs and optimized content for improved SEO and user experience.
+- Ensured website security practices while delivering digital marketing support.
 
-### 🌐 Personal Portfolio
+### 🏆 Key Certifications
 
-Responsive React portfolio showcasing projects, skills, and achievements.
+- **TryHackMe:** SOC Level 1 • Cyber Security 101 • Pre Security
+- **NPTEL:** Ethical Hacking
+- **CodTech:** Cyber Security & Ethical Hacking
 
----
+<br>
 
-### 🏫 AI-Powered Smart Campus Information Kiosk
+## 📊 GitHub Analytics
 
-AI-based multilingual information system utilizing:
+<div align="center">
 
-* RAG
-* LLM Integration
-* Frontend-Backend Communication
+<img src="https://github-readme-stats.vercel.app/api?username=Sahana1255&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana1255&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="48%" alt="Top Languages" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahana1255&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&sideLabels=C9D1D9&sideNums=58A6FF&dates=C9D1D9&background=0D1117" width="100%" alt="GitHub Streak" />
 
-## 💼 Experience
+</div>
 
-### Web Development & Digital Marketing Intern
-
-**MoarDigital360 Pvt Ltd**
-
-* SEO Optimization
-* Website Content Development
-* Responsive Web Design
-* Digital Marketing Support
-
----
-
-## 📜 Certifications
-
-🏆 SOC Level 1 – TryHackMe
-
-🏆 Cyber Security 101 – TryHackMe
-
-🏆 Pre Security – TryHackMe
-
-🏆 Ethical Hacking – NPTEL
-
-🏆 Cyber Security & Ethical Hacking – CodTech
+<br>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahana1255&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana1255&layout=compact&theme=tokyonight" />
-</p>
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahana1255&theme=tokyonight" />
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Sahana1255/Sahana1255/blob/output/github-contribution-grid-snake.svg)
----
-
-## 🤝 Connect With Me
-
-📧 Email: [sahana1255@gmail.com](mailto:sahana1255@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/sahana-v-1255
-
-🌐 Portfolio: sahana-v-portfolio-s461.vercel.app
-
+<div align="center">
+  <i>"In cybersecurity, preparation is not just a phase—it's a continuous posture."</i><br><br>
+  <img src="https://skillicons.dev/icons?i=linux,python,git,github" alt="Core Skills" />
 </div>
